@@ -1,4 +1,4 @@
-# YAML转V2rayN节点工具
+# YAML转V2rayN节点工具[自用]
 
 ## 功能介绍
 
